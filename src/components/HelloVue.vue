@@ -1,13 +1,21 @@
 <template>
-    <img src="~assets/logo.png" alt="">
+    <img src="~assets/logo.png" alt="" />
 </template>
 
 <script>
-    export default {
-        
-    }
+export default {
+    data() {
+        return {
+            // key: value
+        }
+    },
+
+    methods: {
+        name() {
+            
+        }
+    },
+}
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>
